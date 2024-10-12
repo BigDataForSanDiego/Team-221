@@ -42,4 +42,8 @@
 
 #### Team Coordinator GitHub Username: `devklim`
 
-#### Team Members `Kliment Ho: devklim, Sophia Vo: sophia-vo, Katie Moc: katiemoc, Jenny Xu: jex004`
+#### Team Members:
+- Kliment Ho: devklim
+- Sophia Vo: sophia-vo
+- Katie Moc: katiemoc
+- Jenny Xu: jex004`
