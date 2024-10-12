@@ -5,12 +5,11 @@
 #### Team Name: `Sojekakl`    
   
 #### Your team’s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### `Improve user's mental clarity through a quick algorithm that automatically sort keywords into a database and query keywords based on relevance to the search query.`
 
 
 #### A visual
-![UI Layout]([https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024](https://github.com/BigDataForSanDiego/Team-221/blob/0a26416abb861a8a33cbd192ea9ac4c0fc7d1443/IMG_090875D1670A-1.jpeg)")
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
+<img height="10%" width="50%" alt="HDMA" src="IMG_090875D1670A-1.jpeg"> 
 
 <!--
 #### Theme: Enhancing Healthcare’s Digital Front Door
