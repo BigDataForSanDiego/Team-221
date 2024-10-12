@@ -40,10 +40,10 @@
 > How can we leverage big (geospatial) data analytics and AI to improve access to resources that mitigate the impact of environmental factors, i.e. pollution, on health disparities?
 
 
-#### Team Coordinator GitHub Username: `devklim`
+#### Team Coordinator GitHub Username: `DevKlim`
 
 #### Team Members:
-- Kliment Ho: devklim
-- Sophia Vo: sophia-vo
-- Katie Moc: katiemoc
-- Jenny Xu: jex004`
+- Kliment Ho: [DevKlim](https://github.com/DevKlim)
+- Sophia Vo: [sophia-vo](https://github.com/sophia-vo)
+- Katie Moc: [katiemoc](https://github.com/katiemoc)
+- Jenny Xu: [jex004](https://github.com/jex004)
